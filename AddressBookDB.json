@@ -1,0 +1,22 @@
+{
+    "AddressBookDB": [
+      {
+        "id": 1,
+        "_fullName": "Resh",
+        "_address": "old colony",
+        "_phoneNumber": "9999999999",
+        "_city": "Madhya Pradesh",
+        "_state": "Andhra Pradesh",
+        "_zip": "500761"
+      },
+      {
+        "id": 2,
+        "_fullName": "Singh",
+        "_address": "chauraha",
+        "_phoneNumber": 9876543212,
+        "_city": "Pune",
+        "_state": "Maharashtra",
+        "_zip": "606701"
+      }
+    ]
+  }
